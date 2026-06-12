@@ -185,7 +185,7 @@ The graph helps identify:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/akashsuryawanshi04/Heart-Attack-Possibility-using-KNN.git
 cd YOUR_REPOSITORY_NAME
 ```
 
