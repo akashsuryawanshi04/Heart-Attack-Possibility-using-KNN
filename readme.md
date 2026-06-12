@@ -102,6 +102,14 @@ K = 9
 K = 11
 ```
 
+## 📈 KNN Performance Analysis
+
+The graph below illustrates how the K-Nearest Neighbors classifier performs as the value of **K** changes.
+
+![KNN Performance Metrics](metrics_plot.png)
+
+```
+
 Using:
 
 ```python
