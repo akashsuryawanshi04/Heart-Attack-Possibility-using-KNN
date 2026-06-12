@@ -1,4 +1,3 @@
-Here is the entire, self-contained `README.md` file code block. You can copy everything inside the block below, paste it directly into a file named exactly `README.md`, and it will be ready for your GitHub repository!
 
 ```markdown
 # Heart Disease Classification using K-Nearest Neighbors (KNN)
