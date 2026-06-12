@@ -108,7 +108,7 @@ The graph below illustrates how the K-Nearest Neighbors classifier performs as t
 
 ![KNN Performance Metrics](metrics_plot.png)
 
-```
+
 
 Using:
 
