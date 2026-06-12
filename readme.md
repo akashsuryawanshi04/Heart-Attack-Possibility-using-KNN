@@ -108,7 +108,37 @@ The graph below illustrates how the K-Nearest Neighbors classifier performs as t
 
 ![KNN Performance Metrics](metrics_plot.png)
 
+### 🔍 Performance Insights
 
+The KNN algorithm's performance varies significantly with the choice of **K**.
+
+- **K = 3**
+  - Highest Precision (~92.5%)
+  - Lower Recall (~78.1%)
+  - Indicates a stricter classifier that makes fewer positive predictions.
+
+- **K = 5**
+  - Better balance between Precision and Recall.
+  - Reduction in overfitting compared to K=3.
+
+- **K = 7**
+  - Best overall performance.
+  - Accuracy reaches approximately **91.8%**.
+  - Recall improves to approximately **90.6%**.
+  - Provides the most balanced prediction capability.
+
+- **K = 9 and K = 11**
+  - Metrics begin to stabilize.
+  - Slight decrease in Accuracy.
+  - Model becomes smoother but may miss local patterns.
+
+### 📌 Conclusion
+
+The experimental results demonstrate that choosing an appropriate value of **K** is critical for KNN performance.
+
+For this dataset:
+
+✅ **K = 7** achieved the best balance between Accuracy, Precision, and Recall, making it the optimal configuration for heart disease prediction.
 
 Using:
 
