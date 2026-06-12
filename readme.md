@@ -26,7 +26,7 @@ The workflow includes:
 * Compare multiple KNN configurations.
 * Analyze the impact of different K values on model performance.
 * Visualize evaluation metrics for model selection.
-
+ 
 ---
 
 ## 📂 Repository Structure
