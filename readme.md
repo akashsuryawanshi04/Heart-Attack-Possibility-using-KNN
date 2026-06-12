@@ -298,7 +298,7 @@ Through this project, the following concepts were implemented:
 
 **Akash Suryawanshi**
 
-MCA Student | Aspiring AI & Machine Learning Engineer
+MCA Student | AI & Machine Learning Engineer
 
 GitHub: https://github.com/akashsuryawanshi04
 
