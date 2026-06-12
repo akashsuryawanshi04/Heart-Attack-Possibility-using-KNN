@@ -300,9 +300,9 @@ Through this project, the following concepts were implemented:
 
 MCA Student | Aspiring AI & Machine Learning Engineer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/akashsuryawanshi04
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://linkedin.com/in/akashsuryawanshi04
 
 ---
 
