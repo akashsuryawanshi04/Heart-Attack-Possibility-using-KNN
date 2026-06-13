@@ -1,5 +1,5 @@
 # ❤️ Heart Disease Classification using K-Nearest Neighbors (KNN)
-  
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
